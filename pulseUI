@@ -137,7 +137,7 @@ function Ripple(obj)
 end
 
 local pulseLib = Instance.new("ScreenGui")
-pulseLib.Name = "pulse"
+pulseLib.Name = "pulseLib"
 pulseLib.Parent = game.CoreGui
 pulseLib.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
